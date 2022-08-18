@@ -185,6 +185,7 @@ console.log(checkForBingo(
     ]
 ));
 
-
+module.exports={getColumn, getLine,getLeftDiagonal, getRightDiagonal, hasBingo, checkDiagonals,
+    checkLines, checkColumns, checkForBingo}
 
 

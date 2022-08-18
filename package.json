@@ -1,0 +1,17 @@
+{
+  "name": "bingosolved",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "jasmine": "^4.3.0",
+    "jasmine-node": "^1.16.0",
+    "node": "^16.17.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
